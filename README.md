@@ -1,39 +1,43 @@
-<h1 align="left"> Olá! eu sou Emerson Rodrigues</h1>
+# 👋 Olá, eu sou o Emerson Rodrigues!
 
-<h2 align="left">Sobre Mim</h2>
+---
 
-- 📚 Atualmente estou estudando React e Node.
-- 🏆 Meu objetivo e ser desenvolvedor fullstack.
-- ⌨️ Tenho conhecimento em HTTML, CSS, Python, Django.
-- 🎯 Sou focado e adoro me aprofundar no mundo da tecnologia.
-- 🧠 Aprendo as coisas rapido.
+### 🚀 Sobre Mim
 
-Atualmente, estou dedicando meus estudos a React e Node, enquanto aprimoro meus conhecimentos em HTML, CSS e JS. Minha capacidade de aprender rapidamente me permite absorver novas informações e tecnologias de forma eficiente, impulsionando minha jornada para alcançar meu objetivo.
-  
+Sou um apaixonado por transformar café em código e ideias em interfaces incríveis. Atualmente, foco no ecossistema **Front-end**, mas estou em uma jornada intensa de evolução para me tornar um **Desenvolvedor Fullstack**. Acredito que o design aliado à performance cria experiências memoráveis.
 
-##
-<h2 align="left">Linguagens e Tecnologias</h2>
+- 🔭 Atualmente trabalhando em projetos com **React** e **TailwindCSS**.
+- 🌱 Aprofundando meus conhecimentos em **Node.js** e **Django** para o Back-end.
+- ⚡ Curiosidade: Adoro resolver problemas lógicos e otimizar a experiência do usuário.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="node logo"  />
-  <img width="12" />
+---
 
-</div>
+### 🛠️ Tecnologias
 
+#### **Front-end (Especialidade)**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### **Back-end & Database (Evoluindo)**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📫 Vamos nos conectar?
+
+Seja para trocar uma ideia sobre tecnologia, colaborar em projetos ou apenas dizer um "Olá", sinta-se à vontade!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/SEU-INSTAGRAM)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
